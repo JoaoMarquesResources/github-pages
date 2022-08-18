@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my Website!
+
+Certifications:
 
 You can use the [editor on GitHub](https://github.com/JoaoMarquesResources/github-pages/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
